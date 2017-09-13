@@ -834,11 +834,14 @@ img{
     }
 }
 @media only screen and (max-width: 768px) {
+	.logo-bg {
+		margin: auto;
+	}
     #carousel{
         display: none;
     }
     #promo-quest{
-        margin-top: 230px;
+        margin-top: 280px;
     }
     .col-md-6.col-prov-kons-l {
         margin: 0 30%;
@@ -886,7 +889,7 @@ img{
 }
 @media only screen and (max-width: 600px) {
 	#promo-quest{
-        margin-top: 250px;
+        margin-top: 300px;
     }
     .promo-h1 h1, .nashi-pre-h1 h1, .komu-ne-pom-h1 h1, .price-h1 h1, .main-spec-h1 h1, .step-work-h1 h1 {
         font-size: 28px;
@@ -928,7 +931,7 @@ img{
         width: 100%;
     }
 	#promo-quest{
-        margin-top: 240px;
+        margin-top: 300px;
     }
     .header-logo {
         text-align: -webkit-center;
@@ -970,8 +973,8 @@ img{
         padding: 0 15px;
     }
 }
-@media only screen and (max-width: 347px) {
+@media only screen and (max-width: 359px) {
 	#promo-quest{
-        margin-top: 250px;
+        margin-top: 350px;
     }
 }
