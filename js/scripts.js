@@ -1,4 +1,4 @@
 $('.carousel').carousel({
-    interval: 7000 //set the initial interval
+    interval: 5000 //set the initial interval
 });
 
