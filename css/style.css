@@ -57,13 +57,13 @@ img{
 }
 .header-fulladress{
 	text-align: right;
-    font-size: 19px;
+    font-style: italic;
     font-weight: 600;
     margin: 7px -1px 0 0;
 }
 .header-promo{
 	text-align: right;
-    font-style: italic;
+    font-size: 19px;
     font-weight: 600;
     margin: 6px 0 0 0;
 }
